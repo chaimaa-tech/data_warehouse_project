@@ -1,5 +1,7 @@
 # data_warehouse_project
 building a modern dataWarehouse with ETL process using sql server for analytics
+### 📺 Tutorial Source
+This project is based on the tutorial from [Data with Baraa](https://www.youtube.com/@DataWithBaraa).
 # Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
